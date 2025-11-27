@@ -10,7 +10,7 @@ const projects = [
 		title: "LEGO MINDSTORM FLL",
 		category: "ROBOTICS",
 		description: "Un robot compatto realizzato con LEGO Mindstorms EV3, dotato di una base robusta e simmetrica costruita attorno al mattoncino intelligente. La trazione è affidata a due motori grandi montati ai lati, che permettono movimenti precisi e curve controllate, mentre una rotella folle posteriore assicura stabilità. Nella parte frontale è installato un sensore di colore per seguire linee e riconoscere i contrasti del tappeto FLL. Un motore medio controlla un braccio o attacco modulare, progettato per agganciare, spingere o sollevare gli oggetti delle missioni. Il design è compatto, ordinato nei cavi e ottimizzato per facilità di manutenzione e rapidità di cambio degli attrezzi.",
-		image: "/LEGO.jpg",
+		image: "/LEGO.JPG",
 	},
 	{
 		title: "INNOVATIVE PROJECT",
