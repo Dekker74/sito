@@ -15,7 +15,7 @@ const projects = [
 	{
 		title: "INNOVATIVE PROJECT",
 		category: "ROBOTICS",
-		description: "Il Cave Explorer Bot è un robot autonomo progettato per esplorare caverne e grotte in totale sicurezza. È dotato di un telaio resistente, ruote o cingoli adatti a terreni irregolari e un sistema di illuminazione potente per muoversi in ambienti bui. Utilizza sensori LiDAR e telecamere 3D per creare mappe dettagliate dell'ambiente, individuare ostacoli e scansionare le pareti della caverna. Il robot integra anche sensori chimici che rilevano la presenza di gas pericolosi come metano, monossido di carbonio o idrogeno solforato. In caso di valori fuori norma, invia un allarme istantaneo all'operatore. Grazie a un software di navigazione intelligente, può muoversi in autonomia, aggiornare la mappa in tempo reale e tornare automaticamente alla base quando la batteria è bassa o la missione è completata.",
+		description: "Il Cave & Gas Explorer(CGE) è un robot autonomo progettato per esplorare caverne e grotte in totale sicurezza. È dotato di un telaio resistente, ruote o cingoli adatti a terreni irregolari e un sistema di illuminazione potente per muoversi in ambienti bui. Utilizza sensori LiDAR e telecamere 3D per creare mappe dettagliate dell'ambiente, individuare ostacoli e scansionare le pareti della caverna. Il robot integra anche sensori chimici che rilevano la presenza di gas pericolosi come metano, monossido di carbonio o idrogeno solforato. In caso di valori fuori norma, invia un allarme istantaneo all'operatore. Grazie a un software di navigazione intelligente, può muoversi in autonomia, aggiornare la mappa in tempo reale e tornare automaticamente alla base quando la batteria è bassa o la missione è completata.",
 		image: "/ROBOT2.png",
 	},
 ]
