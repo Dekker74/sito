@@ -15,7 +15,7 @@ const teamMembers = [
     image: "/LORENZO.JPG",
   },
   {
-    name: "Gea Dini Horozian",
+    name: "Gea Horozian Dini",
     role: "Researcher and Builder",
     image: "/GEA.JPG",
   },
