@@ -21,8 +21,8 @@ export default function ContactPage() {
           <div className="grid md:grid-cols-1 gap-8">
             <div className="space-y-6">
               <a
-                href="mailto:andrea_greco2010@outlook.it"
-                aria-label="Email andrea_greco2010@outlook.it"
+                href="mailto:()"
+                aria-label="Email ()"
                 className="group block"
               >
                 <Card className="hover:shadow-xl hover:border-primary/50 transition-all duration-300">
@@ -39,15 +39,15 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-foreground mb-1">Email</h3>
-                      <p className="text-sm text-muted-foreground">andrea_greco2010@outlook.it</p>
+                      <p className="text-sm text-muted-foreground">()</p>
                     </div>
                   </CardContent>
                 </Card>
               </a>
 
                 <a
-                href="tel:+393703158187"
-                aria-label="Call +39 370 315 8187"
+                href="tel:+39 ()"
+                aria-label="Call +39 ()"
                 className="group block"
                 >
                 <Card className="hover:shadow-xl hover:border-primary/50 transition-all duration-300">
@@ -64,7 +64,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Phone</h3>
-                    <p className="text-sm text-muted-foreground">+39 370 315 8187</p>
+                    <p className="text-sm text-muted-foreground">+39 ()</p>
                     <p className="text-sm text-muted-foreground">Mon-Fri, 9am-6pm PST</p>
                   </div>
                   </CardContent>

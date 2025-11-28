@@ -28,8 +28,8 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-sm font-semibold text-foreground">Contact</h3>
             <div className="space-y-2 text-sm text-muted-foreground">
-              <p>Email: andrea_greco2010@outlook.it</p>
-              <p>Phone: +39 370 315 8187</p>
+              <p>Email: ()</p>
+              <p>Phone: +39 ()</p>
             </div>
           </div>
 
